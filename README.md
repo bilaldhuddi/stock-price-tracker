@@ -24,8 +24,8 @@
   <li>Enter a valid stock symbol (e.g., AAPL for Apple, MSFT for Microsoft) in the input field and click the "Fetch and Plot" button to visualize the daily stock prices.</li>
 </ol>
 
-<h2>Screenshots</h2>
-<img src="screenshot.png" alt="Screenshot">
+<h2>Screenshot</h2>
+<img src="Screenshot.png" alt="Screenshot">
 
 <h2>Dependencies</h2>
 <ul>
